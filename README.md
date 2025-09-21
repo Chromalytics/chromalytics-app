@@ -1,1 +1,1 @@
-# Chromalytics APP
+# Global Tinting System APP
